@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+main()
 {
 	// Variables to hold gift prices
 	float gift1, gift2, gift3, gift4, gift5;

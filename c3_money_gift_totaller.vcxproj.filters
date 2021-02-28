@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gift_money_totaller.cpp">
+    <ClCompile Include="gift_money_totaller.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
